@@ -1,0 +1,4 @@
+variables:
+- team: fgibelin-casc
+- admin-user: fgibelin-admin
+- manager-user: fgibelin
